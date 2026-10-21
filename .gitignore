@@ -1,6 +1,8 @@
 .DS_Store
 .Rhistory
+node_modules/
 
 # 個人的なメモ（Publicリポジトリに載せない）
 PLAN.md
 フミコーン/
+private/
